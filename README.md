@@ -1,4 +1,4 @@
-## Hey, I'm Nicholas!
+### Hey, I'm Nicholas!
 
 My interests include programming language concepts, game development, and web development. For example, some recent interests in the above domains are as follows:
 - asynchronous runtimes in Rust;
@@ -6,7 +6,7 @@ My interests include programming language concepts, game development, and web de
 - Next.js; 
 - NestJS.
 
-### Open-source Contribution Hall of Fame
+#### Open-source Contribution Hall of Fame
 
 Here are some highlights of my open-source contributions:
 - [Λ ⚬ λ](https://github.com/cpeikert/lol): in the summer of 2016, I worked with a research team at the University of Michigan on a key-homomorphic pseudorandom function application in a state-of-the-art lattice cryptography library. [Check out my commit history!](https://github.com/cpeikert/Lol/commits/master/?author=nskins)
