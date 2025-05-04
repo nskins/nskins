@@ -5,6 +5,8 @@ My interests include programming language concepts, game development, and web de
 - the Next.js + NestJS stack; and
 - the Godot game engine.
 
+I'm also an avid runner! My personal record in the marathon is 3:17:31!
+
 #### Open-source Contribution Hall of Fame
 
 Here are some highlights of my open-source contributions:
