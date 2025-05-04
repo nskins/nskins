@@ -1,3 +1,5 @@
+## Hey, I'm Nicholas!
+
 My interests include programming language concepts, game development, and web development. For example, some recent interests in the above domains are as follows:
 - asynchronous runtimes in Rust;
 - the Godot game engine;
